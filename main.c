@@ -38,7 +38,7 @@ int add(int number1, int number2)
 {
 	//TODO implementation
 	return 0;
-}
+} 
  
 int sub(int number1, int number2)
 {
